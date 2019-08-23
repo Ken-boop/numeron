@@ -1,0 +1,18 @@
+#nnn{
+	color: #3399FF;
+	margin: 100px 0px 50px 0px;
+	font-size: 40px;
+
+}
+.nu{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	align-items: center;
+ 
+}
+.nu .kaku{
+	display: flex;
+	flex-direction: row;
+
+}
